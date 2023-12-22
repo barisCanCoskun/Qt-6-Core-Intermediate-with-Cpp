@@ -1,0 +1,20 @@
+# ninja log v5
+605	639	1700644235830978662	01QSettings	9e63f278955671e1
+23	605	1700644235795119688	CMakeFiles/01QSettings.dir/main.cpp.o	8a807414781130b5
+145	183	1700639156572095165	CMakeFiles/01QSettings.dir/01QSettings_autogen/mocs_compilation.cpp.o	71401d329a471a21
+6	23	1700644235217768171	01QSettings_autogen/mocs_compilation.cpp	155c00defb951fb7
+6	23	1700644235217768171	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-01QSettings-Qt_6_5_2_for_macOS-Debug/01QSettings_autogen/mocs_compilation.cpp	155c00defb951fb7
+6	23	1700644235217768171	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-01QSettings-Qt_6_5_2_for_macOS-Debug/01QSettings_autogen/timestamp	155c00defb951fb7
+6	23	1700644235217768171	01QSettings_autogen/timestamp	155c00defb951fb7
+4	24	1700644607233570349	01QSettings_autogen/timestamp	155c00defb951fb7
+4	24	1700644607233570349	01QSettings_autogen/mocs_compilation.cpp	155c00defb951fb7
+4	24	1700644607233570349	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-01QSettings-Qt_6_5_2_for_macOS-Debug/01QSettings_autogen/timestamp	155c00defb951fb7
+4	24	1700644607233570349	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-01QSettings-Qt_6_5_2_for_macOS-Debug/01QSettings_autogen/mocs_compilation.cpp	155c00defb951fb7
+25	622	1700644607825724959	CMakeFiles/01QSettings.dir/main.cpp.o	8a807414781130b5
+622	777	1700644607983504485	01QSettings	9e63f278955671e1
+5	26	1700644744340208469	01QSettings_autogen/timestamp	155c00defb951fb7
+5	26	1700644744340208469	01QSettings_autogen/mocs_compilation.cpp	155c00defb951fb7
+5	26	1700644744340208469	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-01QSettings-Qt_6_5_2_for_macOS-Debug/01QSettings_autogen/timestamp	155c00defb951fb7
+5	26	1700644744340208469	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-01QSettings-Qt_6_5_2_for_macOS-Debug/01QSettings_autogen/mocs_compilation.cpp	155c00defb951fb7
+26	699	1700644745008852474	CMakeFiles/01QSettings.dir/main.cpp.o	8a807414781130b5
+699	843	1700644745153831309	01QSettings	9e63f278955671e1

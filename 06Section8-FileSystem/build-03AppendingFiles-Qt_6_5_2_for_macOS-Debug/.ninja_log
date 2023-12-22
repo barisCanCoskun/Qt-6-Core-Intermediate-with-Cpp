@@ -1,0 +1,8 @@
+# ninja log v5
+0	215	1700747763694535727	03AppendingFiles_autogen/timestamp	886b635c22157d9c
+0	215	1700747763694535727	03AppendingFiles_autogen/mocs_compilation.cpp	886b635c22157d9c
+0	215	1700747763694535727	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-03AppendingFiles-Qt_6_5_2_for_macOS-Debug/03AppendingFiles_autogen/timestamp	886b635c22157d9c
+0	215	1700747763694535727	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-03AppendingFiles-Qt_6_5_2_for_macOS-Debug/03AppendingFiles_autogen/mocs_compilation.cpp	886b635c22157d9c
+216	278	1700747763761262107	CMakeFiles/03AppendingFiles.dir/03AppendingFiles_autogen/mocs_compilation.cpp.o	e51d52c98658bf3
+216	909	1700747764389189880	CMakeFiles/03AppendingFiles.dir/main.cpp.o	628d6c0f214ea0b7
+910	1053	1700747764533589814	03AppendingFiles	9bdf2950c82b4c33

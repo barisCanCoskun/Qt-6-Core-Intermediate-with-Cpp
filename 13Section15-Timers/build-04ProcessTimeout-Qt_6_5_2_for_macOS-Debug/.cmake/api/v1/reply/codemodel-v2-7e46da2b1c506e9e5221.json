@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-43e8d595f634fcf42fd3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "04ProcessTimeout",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "04ProcessTimeout::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04ProcessTimeout-Debug-f641345f7b9a17c47def.json",
+					"name" : "04ProcessTimeout",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04ProcessTimeout_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04ProcessTimeout_autogen-Debug-5317c54d929d5416f797.json",
+					"name" : "04ProcessTimeout_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04ProcessTimeout_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04ProcessTimeout_autogen_timestamp_deps-Debug-cba744d354430383fbd0.json",
+					"name" : "04ProcessTimeout_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-04ProcessTimeout-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/04ProcessTimeout"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

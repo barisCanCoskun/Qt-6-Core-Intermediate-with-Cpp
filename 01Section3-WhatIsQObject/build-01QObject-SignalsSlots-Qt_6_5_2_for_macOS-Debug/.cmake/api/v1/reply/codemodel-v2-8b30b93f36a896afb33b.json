@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-baedd9afb8291cb7aafe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01QObject-SignalsSlots",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01QObject-SignalsSlots::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01QObject-SignalsSlots-Debug-57555e73460c393af7e0.json",
+					"name" : "01QObject-SignalsSlots",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01QObject-SignalsSlots_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01QObject-SignalsSlots_autogen-Debug-f581c8ca433f611ccec0.json",
+					"name" : "01QObject-SignalsSlots_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01QObject-SignalsSlots_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01QObject-SignalsSlots_autogen_timestamp_deps-Debug-72e35fea789b65dee8c5.json",
+					"name" : "01QObject-SignalsSlots_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/01Section3-WhatIsQObject/build-01QObject-SignalsSlots-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/01Section3-WhatIsQObject/01QObject-SignalsSlots"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

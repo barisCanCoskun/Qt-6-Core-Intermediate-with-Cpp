@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bd9c781e9517583cfb89.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "08QDir",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "08QDir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08QDir-Debug-240894baec98ff8bae87.json",
+					"name" : "08QDir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08QDir_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08QDir_autogen-Debug-eb73776a7b4949f24a69.json",
+					"name" : "08QDir_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08QDir_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08QDir_autogen_timestamp_deps-Debug-b32d597ea1cd49940743.json",
+					"name" : "08QDir_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-08QDir-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/08QDir"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a21fae00f9c24ed23732.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02WritingFiles",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "02WritingFiles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02WritingFiles-Debug-b49bf586a0151c5e8477.json",
+					"name" : "02WritingFiles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02WritingFiles_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02WritingFiles_autogen-Debug-dfe21462e8a7222fc6ca.json",
+					"name" : "02WritingFiles_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02WritingFiles_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02WritingFiles_autogen_timestamp_deps-Debug-3af4ffed8015d685e5cf.json",
+					"name" : "02WritingFiles_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-02WritingFiles-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/02WritingFiles"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

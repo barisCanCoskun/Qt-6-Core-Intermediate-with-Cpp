@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9020fc5b4fa93e738609.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "04ReadingFiles",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "04ReadingFiles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04ReadingFiles-Debug-5b4184560507f708cf81.json",
+					"name" : "04ReadingFiles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04ReadingFiles_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04ReadingFiles_autogen-Debug-b073888438bf6df3c911.json",
+					"name" : "04ReadingFiles_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04ReadingFiles_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04ReadingFiles_autogen_timestamp_deps-Debug-caf091f786b13fd9f74b.json",
+					"name" : "04ReadingFiles_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-04ReadingFiles-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/04ReadingFiles"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

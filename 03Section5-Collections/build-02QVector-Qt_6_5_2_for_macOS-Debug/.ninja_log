@@ -1,0 +1,18 @@
+# ninja log v5
+0	29	1700239447517143954	02QVector_autogen/timestamp	bc4c94f67d12574d
+0	29	1700239447517143954	02QVector_autogen/mocs_compilation.cpp	bc4c94f67d12574d
+0	29	1700239447517143954	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-02QVector-Qt_6_5_2_for_macOS-Debug/02QVector_autogen/timestamp	bc4c94f67d12574d
+0	29	1700239447517143954	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-02QVector-Qt_6_5_2_for_macOS-Debug/02QVector_autogen/mocs_compilation.cpp	bc4c94f67d12574d
+30	46	1700239447537388152	CMakeFiles/02QVector.dir/02QVector_autogen/mocs_compilation.cpp.o	3b328dca399fa267
+30	490	1700239447978538584	CMakeFiles/02QVector.dir/main.cpp.o	e0298d2d5e3919be
+491	521	1700239448011503668	02QVector	1550369a2f610fd3
+4	20	1700239548061192763	02QVector_autogen/timestamp	bc4c94f67d12574d
+4	20	1700239548061192763	02QVector_autogen/mocs_compilation.cpp	bc4c94f67d12574d
+4	20	1700239548061192763	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-02QVector-Qt_6_5_2_for_macOS-Debug/02QVector_autogen/timestamp	bc4c94f67d12574d
+4	20	1700239548061192763	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-02QVector-Qt_6_5_2_for_macOS-Debug/02QVector_autogen/mocs_compilation.cpp	bc4c94f67d12574d
+4	21	1700239570125408294	02QVector_autogen/timestamp	bc4c94f67d12574d
+4	21	1700239570125408294	02QVector_autogen/mocs_compilation.cpp	bc4c94f67d12574d
+4	21	1700239570125408294	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-02QVector-Qt_6_5_2_for_macOS-Debug/02QVector_autogen/timestamp	bc4c94f67d12574d
+4	21	1700239570125408294	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-02QVector-Qt_6_5_2_for_macOS-Debug/02QVector_autogen/mocs_compilation.cpp	bc4c94f67d12574d
+22	623	1700239570722698150	CMakeFiles/02QVector.dir/main.cpp.o	e0298d2d5e3919be
+623	656	1700239570757438898	02QVector	1550369a2f610fd3

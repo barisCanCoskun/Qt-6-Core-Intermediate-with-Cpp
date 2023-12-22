@@ -1,0 +1,9 @@
+# ninja log v5
+0	264	1702798563571595565	02Intervals_autogen/timestamp	a495708da0b66a5d
+0	264	1702798563571595565	02Intervals_autogen/mocs_compilation.cpp	a495708da0b66a5d
+0	264	1702798563571595565	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-02Intervals-Qt_6_5_2_for_macOS-Debug/02Intervals_autogen/timestamp	a495708da0b66a5d
+0	264	1702798563571595565	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-02Intervals-Qt_6_5_2_for_macOS-Debug/02Intervals_autogen/mocs_compilation.cpp	a495708da0b66a5d
+265	883	1702798564191803034	CMakeFiles/02Intervals.dir/main.cpp.o	f72acdf1c3843a60
+265	885	1702798564191819659	CMakeFiles/02Intervals.dir/02Intervals_autogen/mocs_compilation.cpp.o	7e639c5e2e96b37e
+265	889	1702798564199440188	CMakeFiles/02Intervals.dir/test.cpp.o	27a9391aef38b7b
+889	1045	1702798564355658035	02Intervals	b200e4fc25907d20

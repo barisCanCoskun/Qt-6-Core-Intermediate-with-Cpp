@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8153fc1de72fc4fbd397.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01QSettings",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01QSettings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01QSettings-Debug-02e5ed1cc349764135eb.json",
+					"name" : "01QSettings",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01QSettings_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01QSettings_autogen-Debug-f6e2e55b5e1d047aa6b7.json",
+					"name" : "01QSettings_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01QSettings_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01QSettings_autogen_timestamp_deps-Debug-9ae3873e6f8e866175e5.json",
+					"name" : "01QSettings_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-01QSettings-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/01QSettings"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

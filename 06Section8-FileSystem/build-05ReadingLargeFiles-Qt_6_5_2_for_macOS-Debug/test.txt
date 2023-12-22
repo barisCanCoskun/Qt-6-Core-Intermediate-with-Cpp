@@ -1,0 +1,15 @@
+hello from the Jupiter
+3
+7
+9
+11
+this is my test file.
+
+
+void readLines(QFile &file){
+    if(!file.isReadable()) return;
+    file.seek(0);   // move to the beginning
+    while (!file.atEnd()) {
+        qInfo() << file.readLine(); // \n
+    }
+}

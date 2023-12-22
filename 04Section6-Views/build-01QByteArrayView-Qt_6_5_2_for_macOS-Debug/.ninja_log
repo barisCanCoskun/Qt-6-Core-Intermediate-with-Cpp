@@ -1,0 +1,14 @@
+# ninja log v5
+417	445	1700384775583972163	01QByteArrayView	b635c29cc3e0d6a3
+4	20	1700384775160265882	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/04Section6-Views/build-01QByteArrayView-Qt_6_5_2_for_macOS-Debug/01QByteArrayView_autogen/mocs_compilation.cpp	4d3b04497ffa1926
+4	20	1700384775160265882	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/04Section6-Views/build-01QByteArrayView-Qt_6_5_2_for_macOS-Debug/01QByteArrayView_autogen/timestamp	4d3b04497ffa1926
+20	417	1700384775552515251	CMakeFiles/01QByteArrayView.dir/main.cpp.o	23832b4cf656e579
+4	20	1700384775160265882	01QByteArrayView_autogen/mocs_compilation.cpp	4d3b04497ffa1926
+141	178	1700372374228712524	CMakeFiles/01QByteArrayView.dir/01QByteArrayView_autogen/mocs_compilation.cpp.o	49d76be6a6dd1109
+4	20	1700384775160265882	01QByteArrayView_autogen/timestamp	4d3b04497ffa1926
+4	26	1700396744602955907	01QByteArrayView_autogen/timestamp	4d3b04497ffa1926
+4	26	1700396744602955907	01QByteArrayView_autogen/mocs_compilation.cpp	4d3b04497ffa1926
+4	26	1700396744602955907	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/04Section6-Views/build-01QByteArrayView-Qt_6_5_2_for_macOS-Debug/01QByteArrayView_autogen/timestamp	4d3b04497ffa1926
+4	26	1700396744602955907	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/04Section6-Views/build-01QByteArrayView-Qt_6_5_2_for_macOS-Debug/01QByteArrayView_autogen/mocs_compilation.cpp	4d3b04497ffa1926
+26	627	1700396745200583676	CMakeFiles/01QByteArrayView.dir/main.cpp.o	23832b4cf656e579
+627	802	1700396745375186949	01QByteArrayView	b635c29cc3e0d6a3

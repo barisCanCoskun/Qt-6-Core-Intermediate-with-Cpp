@@ -1,0 +1,8 @@
+# ninja log v5
+0	147	1702721807823805705	03WorkingWithAProcess_autogen/timestamp	5c5fa78156ad6e04
+0	147	1702721807823805705	03WorkingWithAProcess_autogen/mocs_compilation.cpp	5c5fa78156ad6e04
+0	147	1702721807823805705	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/12Section14-WorkingWithTheOS/build-03WorkingWithAProcess-Qt_6_5_2_for_macOS-Debug/03WorkingWithAProcess_autogen/timestamp	5c5fa78156ad6e04
+0	147	1702721807823805705	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/12Section14-WorkingWithTheOS/build-03WorkingWithAProcess-Qt_6_5_2_for_macOS-Debug/03WorkingWithAProcess_autogen/mocs_compilation.cpp	5c5fa78156ad6e04
+147	183	1702721807862579790	CMakeFiles/03WorkingWithAProcess.dir/03WorkingWithAProcess_autogen/mocs_compilation.cpp.o	9e4eca2ca9e8612e
+147	587	1702721808265148095	CMakeFiles/03WorkingWithAProcess.dir/main.cpp.o	196f93ef231f2f46
+589	619	1702721808297668529	03WorkingWithAProcess	47061d0c3a938bb7

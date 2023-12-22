@@ -1,0 +1,8 @@
+# ninja log v5
+0	207	1703052795340965316	01QThread_autogen/timestamp	f7cca01380a29846
+0	207	1703052795340965316	01QThread_autogen/mocs_compilation.cpp	f7cca01380a29846
+0	207	1703052795340965316	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/14Section16-BasicThreading/build-01QThread-Qt_6_5_2_for_macOS-Debug/01QThread_autogen/timestamp	f7cca01380a29846
+0	207	1703052795340965316	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/14Section16-BasicThreading/build-01QThread-Qt_6_5_2_for_macOS-Debug/01QThread_autogen/mocs_compilation.cpp	f7cca01380a29846
+207	259	1703052795397227683	CMakeFiles/01QThread.dir/01QThread_autogen/mocs_compilation.cpp.o	e713de506afe6674
+207	715	1703052795849548187	CMakeFiles/01QThread.dir/main.cpp.o	2ea6a9d626772e1b
+716	754	1703052795891354328	01QThread	9b33d0c4302e3700

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ea529956422d14fc4a7d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "00QVariant-Repetition",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "00QVariant-Repetition::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-00QVariant-Repetition-Debug-b6fb479672c3263458b0.json",
+					"name" : "00QVariant-Repetition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "00QVariant-Repetition_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-00QVariant-Repetition_autogen-Debug-f322040b049ae3f85a22.json",
+					"name" : "00QVariant-Repetition_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "00QVariant-Repetition_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-00QVariant-Repetition_autogen_timestamp_deps-Debug-709258f3f1b18e71a0dd.json",
+					"name" : "00QVariant-Repetition_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-00QVariant-Repetition-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/00QVariant-Repetition"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

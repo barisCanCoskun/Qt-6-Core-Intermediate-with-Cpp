@@ -1,0 +1,20 @@
+# ninja log v5
+423	450	1700239011256746477	01QList	7164ba9905f76169
+20	423	1700239011227604905	CMakeFiles/01QList.dir/main.cpp.o	9286992ec3a52a40
+30	45	1700237435601518009	CMakeFiles/01QList.dir/01QList_autogen/mocs_compilation.cpp.o	d86c243c6f4418da
+4	20	1700239010827975593	01QList_autogen/timestamp	5900a4529a47c862
+4	20	1700239010827975593	01QList_autogen/mocs_compilation.cpp	5900a4529a47c862
+4	20	1700239010827975593	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-01QList-Qt_6_5_2_for_macOS-Debug/01QList_autogen/mocs_compilation.cpp	5900a4529a47c862
+4	20	1700239010827975593	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-01QList-Qt_6_5_2_for_macOS-Debug/01QList_autogen/timestamp	5900a4529a47c862
+5	22	1700239023553484050	01QList_autogen/timestamp	5900a4529a47c862
+5	22	1700239023553484050	01QList_autogen/mocs_compilation.cpp	5900a4529a47c862
+5	22	1700239023553484050	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-01QList-Qt_6_5_2_for_macOS-Debug/01QList_autogen/timestamp	5900a4529a47c862
+5	22	1700239023553484050	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-01QList-Qt_6_5_2_for_macOS-Debug/01QList_autogen/mocs_compilation.cpp	5900a4529a47c862
+23	426	1700239023954205128	CMakeFiles/01QList.dir/main.cpp.o	9286992ec3a52a40
+426	452	1700239023982063015	01QList	7164ba9905f76169
+5	22	1700239074555262976	01QList_autogen/timestamp	5900a4529a47c862
+5	22	1700239074555262976	01QList_autogen/mocs_compilation.cpp	5900a4529a47c862
+5	22	1700239074555262976	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-01QList-Qt_6_5_2_for_macOS-Debug/01QList_autogen/timestamp	5900a4529a47c862
+5	22	1700239074555262976	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-01QList-Qt_6_5_2_for_macOS-Debug/01QList_autogen/mocs_compilation.cpp	5900a4529a47c862
+22	428	1700239074957651785	CMakeFiles/01QList.dir/main.cpp.o	9286992ec3a52a40
+428	456	1700239074988076583	01QList	7164ba9905f76169

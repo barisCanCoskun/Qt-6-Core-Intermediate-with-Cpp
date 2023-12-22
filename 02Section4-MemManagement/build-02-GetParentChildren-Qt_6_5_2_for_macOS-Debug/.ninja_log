@@ -1,0 +1,20 @@
+# ninja log v5
+0	145	1700208180965198662	02-GetParentChildren_autogen/timestamp	31552d0ccc0ed99c
+0	145	1700208180965198662	02-GetParentChildren_autogen/mocs_compilation.cpp	31552d0ccc0ed99c
+0	145	1700208180965198662	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/02Section4-MemManagement/build-02-GetParentChildren-Qt_6_5_2_for_macOS-Debug/02-GetParentChildren_autogen/timestamp	31552d0ccc0ed99c
+0	145	1700208180965198662	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/02Section4-MemManagement/build-02-GetParentChildren-Qt_6_5_2_for_macOS-Debug/02-GetParentChildren_autogen/mocs_compilation.cpp	31552d0ccc0ed99c
+146	183	1700208181006127944	CMakeFiles/02-GetParentChildren.dir/02-GetParentChildren_autogen/mocs_compilation.cpp.o	d9896990f0738f23
+146	579	1700208181399956701	CMakeFiles/02-GetParentChildren.dir/main.cpp.o	223048c18c644d0a
+581	728	1700208181546227841	02-GetParentChildren	d82b0355517cc350
+4	20	1700208340738261723	02-GetParentChildren_autogen/timestamp	31552d0ccc0ed99c
+4	20	1700208340738261723	02-GetParentChildren_autogen/mocs_compilation.cpp	31552d0ccc0ed99c
+4	20	1700208340738261723	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/02Section4-MemManagement/build-02-GetParentChildren-Qt_6_5_2_for_macOS-Debug/02-GetParentChildren_autogen/timestamp	31552d0ccc0ed99c
+4	20	1700208340738261723	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/02Section4-MemManagement/build-02-GetParentChildren-Qt_6_5_2_for_macOS-Debug/02-GetParentChildren_autogen/mocs_compilation.cpp	31552d0ccc0ed99c
+20	575	1700208341289247732	CMakeFiles/02-GetParentChildren.dir/main.cpp.o	223048c18c644d0a
+575	609	1700208341324822868	02-GetParentChildren	d82b0355517cc350
+5	22	1700208414712027847	02-GetParentChildren_autogen/timestamp	31552d0ccc0ed99c
+5	22	1700208414712027847	02-GetParentChildren_autogen/mocs_compilation.cpp	31552d0ccc0ed99c
+5	22	1700208414712027847	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/02Section4-MemManagement/build-02-GetParentChildren-Qt_6_5_2_for_macOS-Debug/02-GetParentChildren_autogen/timestamp	31552d0ccc0ed99c
+5	22	1700208414712027847	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/02Section4-MemManagement/build-02-GetParentChildren-Qt_6_5_2_for_macOS-Debug/02-GetParentChildren_autogen/mocs_compilation.cpp	31552d0ccc0ed99c
+22	591	1700208415276500866	CMakeFiles/02-GetParentChildren.dir/main.cpp.o	223048c18c644d0a
+591	626	1700208415312628711	02-GetParentChildren	d82b0355517cc350

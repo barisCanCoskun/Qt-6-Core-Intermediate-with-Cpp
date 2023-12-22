@@ -1,0 +1,20 @@
+# ninja log v5
+0	146	1701009144330101691	11QStorageInfo_autogen/timestamp	37c5b29070c31b52
+0	146	1701009144330101691	11QStorageInfo_autogen/mocs_compilation.cpp	37c5b29070c31b52
+0	146	1701009144330101691	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-11QStorageInfo-Qt_6_5_2_for_macOS-Debug/11QStorageInfo_autogen/timestamp	37c5b29070c31b52
+0	146	1701009144330101691	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-11QStorageInfo-Qt_6_5_2_for_macOS-Debug/11QStorageInfo_autogen/mocs_compilation.cpp	37c5b29070c31b52
+146	185	1701009144372999512	CMakeFiles/11QStorageInfo.dir/11QStorageInfo_autogen/mocs_compilation.cpp.o	18ec940cefce6608
+146	690	1701009144874860726	CMakeFiles/11QStorageInfo.dir/main.cpp.o	bbcde2bb77c765cc
+691	724	1701009144910752258	11QStorageInfo	49a739041b5e37de
+5	22	1701009271901284585	11QStorageInfo_autogen/timestamp	37c5b29070c31b52
+5	22	1701009271901284585	11QStorageInfo_autogen/mocs_compilation.cpp	37c5b29070c31b52
+5	22	1701009271901284585	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-11QStorageInfo-Qt_6_5_2_for_macOS-Debug/11QStorageInfo_autogen/timestamp	37c5b29070c31b52
+5	22	1701009271901284585	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-11QStorageInfo-Qt_6_5_2_for_macOS-Debug/11QStorageInfo_autogen/mocs_compilation.cpp	37c5b29070c31b52
+22	511	1701009272386469512	CMakeFiles/11QStorageInfo.dir/main.cpp.o	bbcde2bb77c765cc
+511	548	1701009272425591295	11QStorageInfo	49a739041b5e37de
+4	22	1701009787900960062	11QStorageInfo_autogen/timestamp	37c5b29070c31b52
+4	22	1701009787900960062	11QStorageInfo_autogen/mocs_compilation.cpp	37c5b29070c31b52
+4	22	1701009787900960062	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-11QStorageInfo-Qt_6_5_2_for_macOS-Debug/11QStorageInfo_autogen/timestamp	37c5b29070c31b52
+4	22	1701009787900960062	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-11QStorageInfo-Qt_6_5_2_for_macOS-Debug/11QStorageInfo_autogen/mocs_compilation.cpp	37c5b29070c31b52
+22	924	1701009788795994269	CMakeFiles/11QStorageInfo.dir/main.cpp.o	bbcde2bb77c765cc
+924	958	1701009788834548007	11QStorageInfo	49a739041b5e37de

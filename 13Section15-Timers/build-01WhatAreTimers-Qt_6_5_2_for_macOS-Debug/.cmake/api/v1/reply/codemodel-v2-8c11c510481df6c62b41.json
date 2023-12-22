@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-32929b9ce7f1260e8634.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01WhatAreTimers",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01WhatAreTimers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01WhatAreTimers-Debug-d1527b52640e49f8bf24.json",
+					"name" : "01WhatAreTimers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01WhatAreTimers_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01WhatAreTimers_autogen-Debug-f508a33856702b223ec1.json",
+					"name" : "01WhatAreTimers_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01WhatAreTimers_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01WhatAreTimers_autogen_timestamp_deps-Debug-7a56a0c2bb1fa75f78c1.json",
+					"name" : "01WhatAreTimers_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-01WhatAreTimers-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/01WhatAreTimers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

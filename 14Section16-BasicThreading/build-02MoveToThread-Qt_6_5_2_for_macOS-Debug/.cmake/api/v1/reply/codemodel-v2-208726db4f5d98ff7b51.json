@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-87daf798fb75ef421d1f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02MoveToThread",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "02MoveToThread::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02MoveToThread-Debug-c41cf9889b7ac7fc8096.json",
+					"name" : "02MoveToThread",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02MoveToThread_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02MoveToThread_autogen-Debug-c494db308d78d5d56227.json",
+					"name" : "02MoveToThread_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02MoveToThread_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02MoveToThread_autogen_timestamp_deps-Debug-c31b91e91942eb729ea5.json",
+					"name" : "02MoveToThread_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/14Section16-BasicThreading/build-02MoveToThread-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/14Section16-BasicThreading/02MoveToThread"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

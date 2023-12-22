@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-102196b5d8a7b3ba21de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "04QLoggingCategory",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "04QLoggingCategory::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04QLoggingCategory-Debug-c38436f0b7290e77f481.json",
+					"name" : "04QLoggingCategory",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04QLoggingCategory_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04QLoggingCategory_autogen-Debug-1be4524acf79681d1b69.json",
+					"name" : "04QLoggingCategory_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04QLoggingCategory_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04QLoggingCategory_autogen_timestamp_deps-Debug-42dd42872eeb73a6e628.json",
+					"name" : "04QLoggingCategory_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/build-04QLoggingCategory-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/04QLoggingCategory"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

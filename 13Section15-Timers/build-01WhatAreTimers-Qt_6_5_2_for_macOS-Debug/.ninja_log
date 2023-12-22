@@ -1,0 +1,8 @@
+# ninja log v5
+0	149	1702794507013256996	01WhatAreTimers_autogen/timestamp	f9b56eb20dfa66e8
+0	149	1702794507013256996	01WhatAreTimers_autogen/mocs_compilation.cpp	f9b56eb20dfa66e8
+0	149	1702794507013256996	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-01WhatAreTimers-Qt_6_5_2_for_macOS-Debug/01WhatAreTimers_autogen/timestamp	f9b56eb20dfa66e8
+0	149	1702794507013256996	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-01WhatAreTimers-Qt_6_5_2_for_macOS-Debug/01WhatAreTimers_autogen/mocs_compilation.cpp	f9b56eb20dfa66e8
+150	187	1702794507053911275	CMakeFiles/01WhatAreTimers.dir/01WhatAreTimers_autogen/mocs_compilation.cpp.o	cb5e8b203806acb1
+150	570	1702794507434599863	CMakeFiles/01WhatAreTimers.dir/main.cpp.o	a5bb01f1141e2c6a
+571	607	1702794507473630392	01WhatAreTimers	ced86f7f91bd802

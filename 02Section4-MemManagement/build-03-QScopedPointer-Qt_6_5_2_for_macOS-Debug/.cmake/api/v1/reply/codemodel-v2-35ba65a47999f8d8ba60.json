@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a5fb1e9a6cedfd00254f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "03-QScopedPointer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "03-QScopedPointer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03-QScopedPointer-Debug-f28af31e77829ea8e39d.json",
+					"name" : "03-QScopedPointer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03-QScopedPointer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03-QScopedPointer_autogen-Debug-2b151774b1fd81c497fd.json",
+					"name" : "03-QScopedPointer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03-QScopedPointer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03-QScopedPointer_autogen_timestamp_deps-Debug-112905317129271c78ca.json",
+					"name" : "03-QScopedPointer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/02Section4-MemManagement/build-03-QScopedPointer-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/02Section4-MemManagement/03-QScopedPointer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

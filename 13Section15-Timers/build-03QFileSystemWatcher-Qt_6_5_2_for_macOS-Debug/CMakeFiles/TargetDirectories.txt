@@ -1,0 +1,9 @@
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-03QFileSystemWatcher-Qt_6_5_2_for_macOS-Debug/CMakeFiles/03QFileSystemWatcher.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-03QFileSystemWatcher-Qt_6_5_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-03QFileSystemWatcher-Qt_6_5_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-03QFileSystemWatcher-Qt_6_5_2_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-03QFileSystemWatcher-Qt_6_5_2_for_macOS-Debug/CMakeFiles/install.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-03QFileSystemWatcher-Qt_6_5_2_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-03QFileSystemWatcher-Qt_6_5_2_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-03QFileSystemWatcher-Qt_6_5_2_for_macOS-Debug/CMakeFiles/03QFileSystemWatcher_autogen_timestamp_deps.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-03QFileSystemWatcher-Qt_6_5_2_for_macOS-Debug/CMakeFiles/03QFileSystemWatcher_autogen.dir

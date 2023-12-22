@@ -1,0 +1,4 @@
+Sun Dec 3 19:20:30 2023 - Info: test file:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/02CreatingALoggerClass/main.cpp line: 18
+Sun Dec 3 19:20:30 2023 - Debug: Test(0x16f3b7568) Constructed file:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/02CreatingALoggerClass/test.cpp line: 6
+Sun Dec 3 19:20:30 2023 - Warning: This is a test! file:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/02CreatingALoggerClass/test.cpp line: 11
+Sun Dec 3 19:20:30 2023 - Info: Finished file:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/02CreatingALoggerClass/main.cpp line: 26

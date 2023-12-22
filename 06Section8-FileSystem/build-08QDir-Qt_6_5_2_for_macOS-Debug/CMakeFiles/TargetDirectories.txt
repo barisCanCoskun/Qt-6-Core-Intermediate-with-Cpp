@@ -1,0 +1,9 @@
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-08QDir-Qt_6_5_2_for_macOS-Debug/CMakeFiles/08QDir.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-08QDir-Qt_6_5_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-08QDir-Qt_6_5_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-08QDir-Qt_6_5_2_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-08QDir-Qt_6_5_2_for_macOS-Debug/CMakeFiles/install.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-08QDir-Qt_6_5_2_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-08QDir-Qt_6_5_2_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-08QDir-Qt_6_5_2_for_macOS-Debug/CMakeFiles/08QDir_autogen_timestamp_deps.dir
+/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-08QDir-Qt_6_5_2_for_macOS-Debug/CMakeFiles/08QDir_autogen.dir

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-265de2eb76c3187c442e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "04ProcessCustomCommands",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "04ProcessCustomCommands::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04ProcessCustomCommands-Debug-c72f9cd565726257945b.json",
+					"name" : "04ProcessCustomCommands",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04ProcessCustomCommands_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04ProcessCustomCommands_autogen-Debug-3dfaf78f9e2fa8c6c779.json",
+					"name" : "04ProcessCustomCommands_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04ProcessCustomCommands_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04ProcessCustomCommands_autogen_timestamp_deps-Debug-4d7dcebe7e592966def1.json",
+					"name" : "04ProcessCustomCommands_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/12Section14-WorkingWithTheOS/build-04ProcessCustomCommands-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/12Section14-WorkingWithTheOS/04ProcessCustomCommands"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

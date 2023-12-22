@@ -1,0 +1,26 @@
+# ninja log v5
+0	144	1700711036286694409	03NavigatingGroups_autogen/timestamp	c60de995b9c4ac87
+0	144	1700711036286694409	03NavigatingGroups_autogen/mocs_compilation.cpp	c60de995b9c4ac87
+0	144	1700711036286694409	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-03NavigatingGroups-Qt_6_5_2_for_macOS-Debug/03NavigatingGroups_autogen/timestamp	c60de995b9c4ac87
+0	144	1700711036286694409	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-03NavigatingGroups-Qt_6_5_2_for_macOS-Debug/03NavigatingGroups_autogen/mocs_compilation.cpp	c60de995b9c4ac87
+144	180	1700711036326042255	CMakeFiles/03NavigatingGroups.dir/03NavigatingGroups_autogen/mocs_compilation.cpp.o	2eda5af1d21fb4e1
+144	614	1700711036758245860	CMakeFiles/03NavigatingGroups.dir/main.cpp.o	94d5b515bd1820ee
+616	650	1700711036794405661	03NavigatingGroups	fdafa7682be4a676
+5	22	1700711056697106425	03NavigatingGroups_autogen/timestamp	c60de995b9c4ac87
+5	22	1700711056697106425	03NavigatingGroups_autogen/mocs_compilation.cpp	c60de995b9c4ac87
+5	22	1700711056697106425	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-03NavigatingGroups-Qt_6_5_2_for_macOS-Debug/03NavigatingGroups_autogen/timestamp	c60de995b9c4ac87
+5	22	1700711056697106425	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-03NavigatingGroups-Qt_6_5_2_for_macOS-Debug/03NavigatingGroups_autogen/mocs_compilation.cpp	c60de995b9c4ac87
+22	457	1700711057129362863	CMakeFiles/03NavigatingGroups.dir/main.cpp.o	94d5b515bd1820ee
+458	488	1700711057160304740	03NavigatingGroups	fdafa7682be4a676
+5	26	1700712119136316951	03NavigatingGroups_autogen/timestamp	c60de995b9c4ac87
+5	26	1700712119136316951	03NavigatingGroups_autogen/mocs_compilation.cpp	c60de995b9c4ac87
+5	26	1700712119136316951	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-03NavigatingGroups-Qt_6_5_2_for_macOS-Debug/03NavigatingGroups_autogen/timestamp	c60de995b9c4ac87
+5	26	1700712119136316951	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-03NavigatingGroups-Qt_6_5_2_for_macOS-Debug/03NavigatingGroups_autogen/mocs_compilation.cpp	c60de995b9c4ac87
+27	661	1700712119764762562	CMakeFiles/03NavigatingGroups.dir/main.cpp.o	94d5b515bd1820ee
+661	825	1700712119926803736	03NavigatingGroups	fdafa7682be4a676
+65	102	1700712272817625971	03NavigatingGroups_autogen/timestamp	c60de995b9c4ac87
+65	102	1700712272817625971	03NavigatingGroups_autogen/mocs_compilation.cpp	c60de995b9c4ac87
+65	102	1700712272817625971	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-03NavigatingGroups-Qt_6_5_2_for_macOS-Debug/03NavigatingGroups_autogen/timestamp	c60de995b9c4ac87
+65	102	1700712272817625971	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/05Section7-Settings/build-03NavigatingGroups-Qt_6_5_2_for_macOS-Debug/03NavigatingGroups_autogen/mocs_compilation.cpp	c60de995b9c4ac87
+102	2843	1700712275554491341	CMakeFiles/03NavigatingGroups.dir/main.cpp.o	94d5b515bd1820ee
+2843	4208	1700712276921895901	03NavigatingGroups	fdafa7682be4a676

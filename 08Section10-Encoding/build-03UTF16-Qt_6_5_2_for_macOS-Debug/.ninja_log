@@ -1,0 +1,20 @@
+# ninja log v5
+0	37	1701768259163410811	03UTF16_autogen/timestamp	cdfce6eacb8c3f2f
+0	37	1701768259163410811	03UTF16_autogen/mocs_compilation.cpp	cdfce6eacb8c3f2f
+0	37	1701768259163410811	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/08Section10-Encoding/build-03UTF16-Qt_6_5_2_for_macOS-Debug/03UTF16_autogen/timestamp	cdfce6eacb8c3f2f
+0	37	1701768259163410811	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/08Section10-Encoding/build-03UTF16-Qt_6_5_2_for_macOS-Debug/03UTF16_autogen/mocs_compilation.cpp	cdfce6eacb8c3f2f
+37	52	1701768259182755057	CMakeFiles/03UTF16.dir/03UTF16_autogen/mocs_compilation.cpp.o	9e8c4f5b6ed22dac
+37	574	1701768259701575088	CMakeFiles/03UTF16.dir/main.cpp.o	c10f451d334b1256
+576	607	1701768259736491390	03UTF16	10c0c09be9a0b4b4
+6	25	1701768371026444097	03UTF16_autogen/timestamp	cdfce6eacb8c3f2f
+6	25	1701768371026444097	03UTF16_autogen/mocs_compilation.cpp	cdfce6eacb8c3f2f
+6	25	1701768371026444097	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/08Section10-Encoding/build-03UTF16-Qt_6_5_2_for_macOS-Debug/03UTF16_autogen/timestamp	cdfce6eacb8c3f2f
+6	25	1701768371026444097	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/08Section10-Encoding/build-03UTF16-Qt_6_5_2_for_macOS-Debug/03UTF16_autogen/mocs_compilation.cpp	cdfce6eacb8c3f2f
+26	681	1701768371677749747	CMakeFiles/03UTF16.dir/main.cpp.o	c10f451d334b1256
+681	711	1701768371709416403	03UTF16	10c0c09be9a0b4b4
+7	27	1701768387014370765	03UTF16_autogen/timestamp	cdfce6eacb8c3f2f
+7	27	1701768387014370765	03UTF16_autogen/mocs_compilation.cpp	cdfce6eacb8c3f2f
+7	27	1701768387014370765	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/08Section10-Encoding/build-03UTF16-Qt_6_5_2_for_macOS-Debug/03UTF16_autogen/timestamp	cdfce6eacb8c3f2f
+7	27	1701768387014370765	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/08Section10-Encoding/build-03UTF16-Qt_6_5_2_for_macOS-Debug/03UTF16_autogen/mocs_compilation.cpp	cdfce6eacb8c3f2f
+28	685	1701768387667782386	CMakeFiles/03UTF16.dir/main.cpp.o	c10f451d334b1256
+685	715	1701768387699495251	03UTF16	10c0c09be9a0b4b4

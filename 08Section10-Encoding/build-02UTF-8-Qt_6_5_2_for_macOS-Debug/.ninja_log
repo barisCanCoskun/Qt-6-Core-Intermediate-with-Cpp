@@ -1,0 +1,14 @@
+# ninja log v5
+5	24	1701767390163854252	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/08Section10-Encoding/build-02UTF-8-Qt_6_5_2_for_macOS-Debug/02UTF-8_autogen/timestamp	566265d1aa41479f
+24	703	1701767390838211433	CMakeFiles/02UTF-8.dir/main.cpp.o	e937844c553fc782
+189	236	1701764273855353228	CMakeFiles/02UTF-8.dir/02UTF-8_autogen/mocs_compilation.cpp.o	71db12cf352acb7d
+5	24	1701767390163854252	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/08Section10-Encoding/build-02UTF-8-Qt_6_5_2_for_macOS-Debug/02UTF-8_autogen/mocs_compilation.cpp	566265d1aa41479f
+703	737	1701767390874505161	02UTF-8	b1f9515caaad44ba
+5	24	1701767390163854252	02UTF-8_autogen/mocs_compilation.cpp	566265d1aa41479f
+5	24	1701767390163854252	02UTF-8_autogen/timestamp	566265d1aa41479f
+5	21	1701767408029192281	02UTF-8_autogen/timestamp	566265d1aa41479f
+5	21	1701767408029192281	02UTF-8_autogen/mocs_compilation.cpp	566265d1aa41479f
+5	21	1701767408029192281	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/08Section10-Encoding/build-02UTF-8-Qt_6_5_2_for_macOS-Debug/02UTF-8_autogen/timestamp	566265d1aa41479f
+5	21	1701767408029192281	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/08Section10-Encoding/build-02UTF-8-Qt_6_5_2_for_macOS-Debug/02UTF-8_autogen/mocs_compilation.cpp	566265d1aa41479f
+21	523	1701767408526292323	CMakeFiles/02UTF-8.dir/main.cpp.o	e937844c553fc782
+523	550	1701767408556863079	02UTF-8	b1f9515caaad44ba

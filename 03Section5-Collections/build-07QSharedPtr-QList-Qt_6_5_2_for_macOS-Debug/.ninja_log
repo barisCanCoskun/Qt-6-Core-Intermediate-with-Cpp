@@ -1,0 +1,27 @@
+# ninja log v5
+0	326	1700335447352839424	07QSharedPtr-QList_autogen/timestamp	995480f6ffcdbdcd
+0	326	1700335447352839424	07QSharedPtr-QList_autogen/mocs_compilation.cpp	995480f6ffcdbdcd
+0	326	1700335447352839424	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-07QSharedPtr-QList-Qt_6_5_2_for_macOS-Debug/07QSharedPtr-QList_autogen/timestamp	995480f6ffcdbdcd
+0	326	1700335447352839424	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-07QSharedPtr-QList-Qt_6_5_2_for_macOS-Debug/07QSharedPtr-QList_autogen/mocs_compilation.cpp	995480f6ffcdbdcd
+326	813	1700335447842127505	CMakeFiles/07QSharedPtr-QList.dir/07QSharedPtr-QList_autogen/mocs_compilation.cpp.o	7b2e09466a2ac3ef
+326	814	1700335447842127464	CMakeFiles/07QSharedPtr-QList.dir/test.cpp.o	15bc49dc077c0a8
+326	825	1700335447852884672	CMakeFiles/07QSharedPtr-QList.dir/main.cpp.o	c30e41e512aa7782
+825	858	1700335447889595406	07QSharedPtr-QList	3f0960f2538e491f
+7	30	1700336067963480704	07QSharedPtr-QList_autogen/timestamp	995480f6ffcdbdcd
+7	30	1700336067963480704	07QSharedPtr-QList_autogen/mocs_compilation.cpp	995480f6ffcdbdcd
+7	30	1700336067963480704	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-07QSharedPtr-QList-Qt_6_5_2_for_macOS-Debug/07QSharedPtr-QList_autogen/timestamp	995480f6ffcdbdcd
+7	30	1700336067963480704	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-07QSharedPtr-QList-Qt_6_5_2_for_macOS-Debug/07QSharedPtr-QList_autogen/mocs_compilation.cpp	995480f6ffcdbdcd
+31	636	1700336068565998097	CMakeFiles/07QSharedPtr-QList.dir/main.cpp.o	c30e41e512aa7782
+636	670	1700336068601632066	07QSharedPtr-QList	3f0960f2538e491f
+6	28	1700336172597194104	07QSharedPtr-QList_autogen/timestamp	995480f6ffcdbdcd
+6	28	1700336172597194104	07QSharedPtr-QList_autogen/mocs_compilation.cpp	995480f6ffcdbdcd
+6	28	1700336172597194104	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-07QSharedPtr-QList-Qt_6_5_2_for_macOS-Debug/07QSharedPtr-QList_autogen/timestamp	995480f6ffcdbdcd
+6	28	1700336172597194104	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-07QSharedPtr-QList-Qt_6_5_2_for_macOS-Debug/07QSharedPtr-QList_autogen/mocs_compilation.cpp	995480f6ffcdbdcd
+29	642	1700336173205066696	CMakeFiles/07QSharedPtr-QList.dir/main.cpp.o	c30e41e512aa7782
+642	676	1700336173242040289	07QSharedPtr-QList	3f0960f2538e491f
+6	36	1700336232490421256	07QSharedPtr-QList_autogen/timestamp	995480f6ffcdbdcd
+6	36	1700336232490421256	07QSharedPtr-QList_autogen/mocs_compilation.cpp	995480f6ffcdbdcd
+6	36	1700336232490421256	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-07QSharedPtr-QList-Qt_6_5_2_for_macOS-Debug/07QSharedPtr-QList_autogen/timestamp	995480f6ffcdbdcd
+6	36	1700336232490421256	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/03Section5-Collections/build-07QSharedPtr-QList-Qt_6_5_2_for_macOS-Debug/07QSharedPtr-QList_autogen/mocs_compilation.cpp	995480f6ffcdbdcd
+37	652	1700336233099259855	CMakeFiles/07QSharedPtr-QList.dir/main.cpp.o	c30e41e512aa7782
+652	818	1700336233269161381	07QSharedPtr-QList	3f0960f2538e491f

@@ -1,0 +1,10 @@
+Sun Dec 3 17:47:16 2023 - Info: This is an info messagefile:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/01InterceptingQDebugMessages/main.cppline:52
+Sun Dec 3 17:47:16 2023 - Debug: This is a debug messagefile:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/01InterceptingQDebugMessages/main.cppline:53
+Sun Dec 3 17:47:16 2023 - Warning: This is a warning messagefile:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/01InterceptingQDebugMessages/main.cppline:54
+Sun Dec 3 17:47:16 2023 - Critical: This is a critical messagefile:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/01InterceptingQDebugMessages/main.cppline:55
+Sun Dec 3 17:47:16 2023 - Fatal: This is a fatal message: Sparta!file:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/01InterceptingQDebugMessages/main.cppline:56
+Sun Dec 3 17:49:54 2023 - Info: This is an info message file:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/01InterceptingQDebugMessages/main.cppline:52
+Sun Dec 3 17:49:54 2023 - Debug: This is a debug message file:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/01InterceptingQDebugMessages/main.cppline:53
+Sun Dec 3 17:49:54 2023 - Warning: This is a warning message file:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/01InterceptingQDebugMessages/main.cppline:54
+Sun Dec 3 17:49:54 2023 - Critical: This is a critical message file:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/01InterceptingQDebugMessages/main.cppline:55
+Sun Dec 3 17:49:54 2023 - Fatal: This is a fatal message: Sparta! file:/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/01InterceptingQDebugMessages/main.cppline:56

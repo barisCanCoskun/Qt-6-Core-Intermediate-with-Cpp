@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ccf12e11da97f3e85b79.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "04-SharingAPointer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "04-SharingAPointer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-SharingAPointer-Debug-164c9904e22d9665575e.json",
+					"name" : "04-SharingAPointer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-SharingAPointer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-SharingAPointer_autogen-Debug-0d609ac9f5cf6bfa6bc1.json",
+					"name" : "04-SharingAPointer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-SharingAPointer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-SharingAPointer_autogen_timestamp_deps-Debug-9611e7e14df3b3054483.json",
+					"name" : "04-SharingAPointer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/02Section4-MemManagement/build-04-SharingAPointer-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/02Section4-MemManagement/04-SharingAPointer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

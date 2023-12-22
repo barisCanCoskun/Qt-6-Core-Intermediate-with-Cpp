@@ -1,0 +1,15 @@
+# ninja log v5
+0	343	1702803497454638391	03QFileSystemWatcher_autogen/timestamp	56cdd2e21232fb8c
+0	343	1702803497454638391	03QFileSystemWatcher_autogen/mocs_compilation.cpp	56cdd2e21232fb8c
+0	343	1702803497454638391	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-03QFileSystemWatcher-Qt_6_5_2_for_macOS-Debug/03QFileSystemWatcher_autogen/timestamp	56cdd2e21232fb8c
+0	343	1702803497454638391	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-03QFileSystemWatcher-Qt_6_5_2_for_macOS-Debug/03QFileSystemWatcher_autogen/mocs_compilation.cpp	56cdd2e21232fb8c
+343	1017	1702803498130614021	CMakeFiles/03QFileSystemWatcher.dir/main.cpp.o	7568a83a586aec46
+343	1020	1702803498133863183	CMakeFiles/03QFileSystemWatcher.dir/03QFileSystemWatcher_autogen/mocs_compilation.cpp.o	30fdde385967456c
+344	1029	1702803498143460878	CMakeFiles/03QFileSystemWatcher.dir/watcher.cpp.o	9ac5091f23cea01f
+1029	1196	1702803498310764486	03QFileSystemWatcher	d7f12bb28986162a
+8	33	1702803598917705838	03QFileSystemWatcher_autogen/timestamp	56cdd2e21232fb8c
+8	33	1702803598917705838	03QFileSystemWatcher_autogen/mocs_compilation.cpp	56cdd2e21232fb8c
+8	33	1702803598917705838	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-03QFileSystemWatcher-Qt_6_5_2_for_macOS-Debug/03QFileSystemWatcher_autogen/timestamp	56cdd2e21232fb8c
+8	33	1702803598917705838	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/13Section15-Timers/build-03QFileSystemWatcher-Qt_6_5_2_for_macOS-Debug/03QFileSystemWatcher_autogen/mocs_compilation.cpp	56cdd2e21232fb8c
+34	688	1702803599568471422	CMakeFiles/03QFileSystemWatcher.dir/main.cpp.o	7568a83a586aec46
+688	721	1702803599602530917	03QFileSystemWatcher	d7f12bb28986162a

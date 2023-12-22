@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-61b49be6f7bb976974d0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01InterceptingQDebugMessages",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01InterceptingQDebugMessages::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01InterceptingQDebugMessages-Debug-01be3db1d1a045a7a150.json",
+					"name" : "01InterceptingQDebugMessages",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01InterceptingQDebugMessages_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01InterceptingQDebugMessages_autogen-Debug-5231866db6d05aeef9bf.json",
+					"name" : "01InterceptingQDebugMessages_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01InterceptingQDebugMessages_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01InterceptingQDebugMessages_autogen_timestamp_deps-Debug-52ae59f614482e76a391.json",
+					"name" : "01InterceptingQDebugMessages_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/build-01InterceptingQDebugMessages-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/01InterceptingQDebugMessages"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

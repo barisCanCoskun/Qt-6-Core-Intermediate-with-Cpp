@@ -1,0 +1,26 @@
+# ninja log v5
+0	33	1701752630918692071	04QLoggingCategory_autogen/timestamp	f005007a673b968b
+0	33	1701752630918692071	04QLoggingCategory_autogen/mocs_compilation.cpp	f005007a673b968b
+0	33	1701752630918692071	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/build-04QLoggingCategory-Qt_6_5_2_for_macOS-Debug/04QLoggingCategory_autogen/timestamp	f005007a673b968b
+0	33	1701752630918692071	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/build-04QLoggingCategory-Qt_6_5_2_for_macOS-Debug/04QLoggingCategory_autogen/mocs_compilation.cpp	f005007a673b968b
+33	48	1701752630937725039	CMakeFiles/04QLoggingCategory.dir/04QLoggingCategory_autogen/mocs_compilation.cpp.o	b38691744f491a5e
+33	410	1701752631297275158	CMakeFiles/04QLoggingCategory.dir/main.cpp.o	57a921e01bf5b6e6
+412	441	1701752631330239526	04QLoggingCategory	579a8f18ace32192
+5	21	1701753173915880184	04QLoggingCategory_autogen/timestamp	f005007a673b968b
+5	21	1701753173915880184	04QLoggingCategory_autogen/mocs_compilation.cpp	f005007a673b968b
+5	21	1701753173915880184	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/build-04QLoggingCategory-Qt_6_5_2_for_macOS-Debug/04QLoggingCategory_autogen/timestamp	f005007a673b968b
+5	21	1701753173915880184	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/build-04QLoggingCategory-Qt_6_5_2_for_macOS-Debug/04QLoggingCategory_autogen/mocs_compilation.cpp	f005007a673b968b
+21	397	1701753174288956812	CMakeFiles/04QLoggingCategory.dir/main.cpp.o	57a921e01bf5b6e6
+397	427	1701753174320615385	04QLoggingCategory	579a8f18ace32192
+5	22	1701753339992044134	04QLoggingCategory_autogen/timestamp	f005007a673b968b
+5	22	1701753339992044134	04QLoggingCategory_autogen/mocs_compilation.cpp	f005007a673b968b
+5	22	1701753339992044134	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/build-04QLoggingCategory-Qt_6_5_2_for_macOS-Debug/04QLoggingCategory_autogen/timestamp	f005007a673b968b
+5	22	1701753339992044134	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/build-04QLoggingCategory-Qt_6_5_2_for_macOS-Debug/04QLoggingCategory_autogen/mocs_compilation.cpp	f005007a673b968b
+22	412	1701753340377758033	CMakeFiles/04QLoggingCategory.dir/main.cpp.o	57a921e01bf5b6e6
+412	443	1701753340411065697	04QLoggingCategory	579a8f18ace32192
+5	21	1701753422107507110	04QLoggingCategory_autogen/timestamp	f005007a673b968b
+5	21	1701753422107507110	04QLoggingCategory_autogen/mocs_compilation.cpp	f005007a673b968b
+5	21	1701753422107507110	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/build-04QLoggingCategory-Qt_6_5_2_for_macOS-Debug/04QLoggingCategory_autogen/timestamp	f005007a673b968b
+5	21	1701753422107507110	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/07Section9-QDebug/build-04QLoggingCategory-Qt_6_5_2_for_macOS-Debug/04QLoggingCategory_autogen/mocs_compilation.cpp	f005007a673b968b
+22	407	1701753422490402828	CMakeFiles/04QLoggingCategory.dir/main.cpp.o	57a921e01bf5b6e6
+407	437	1701753422522474777	04QLoggingCategory	579a8f18ace32192

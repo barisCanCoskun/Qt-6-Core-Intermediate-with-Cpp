@@ -1,0 +1,8 @@
+# ninja log v5
+0	31	1701790298630007430	05Hex_autogen/timestamp	30d919762874d0de
+0	31	1701790298630007430	05Hex_autogen/mocs_compilation.cpp	30d919762874d0de
+0	31	1701790298630007430	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/08Section10-Encoding/build-05Hex-Qt_6_5_2_for_macOS-Debug/05Hex_autogen/timestamp	30d919762874d0de
+0	31	1701790298630007430	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/08Section10-Encoding/build-05Hex-Qt_6_5_2_for_macOS-Debug/05Hex_autogen/mocs_compilation.cpp	30d919762874d0de
+31	46	1701790298648254065	CMakeFiles/05Hex.dir/05Hex_autogen/mocs_compilation.cpp.o	1a2cb806ec362e30
+31	433	1701790299033036106	CMakeFiles/05Hex.dir/main.cpp.o	1d5ee16d352230a5
+434	460	1701790299061931068	05Hex	58664347fbc4b9f0

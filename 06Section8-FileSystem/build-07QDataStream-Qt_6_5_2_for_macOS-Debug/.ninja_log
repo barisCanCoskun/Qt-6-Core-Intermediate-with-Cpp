@@ -1,0 +1,8 @@
+# ninja log v5
+20	475	1700943226415387387	CMakeFiles/07QDataStream.dir/main.cpp.o	ed4c1eed61be60e3
+4	20	1700943225963122892	07QDataStream_autogen/timestamp	2bde52d74c8aae75
+4	20	1700943225963122892	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-07QDataStream-Qt_6_5_2_for_macOS-Debug/07QDataStream_autogen/mocs_compilation.cpp	2bde52d74c8aae75
+144	181	1700938378973247599	CMakeFiles/07QDataStream.dir/07QDataStream_autogen/mocs_compilation.cpp.o	6995aeb1f3eac2e1
+4	20	1700943225963122892	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-07QDataStream-Qt_6_5_2_for_macOS-Debug/07QDataStream_autogen/timestamp	2bde52d74c8aae75
+476	502	1700943226444217134	07QDataStream	6d6c5c35d167aa6e
+4	20	1700943225963122892	07QDataStream_autogen/mocs_compilation.cpp	2bde52d74c8aae75

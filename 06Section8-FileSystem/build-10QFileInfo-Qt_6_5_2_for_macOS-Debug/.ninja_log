@@ -1,0 +1,16 @@
+# ninja log v5
+0	150	1701006566424382252	10QFileInfo_autogen/timestamp	ed427289f0e68ed3
+0	150	1701006566424382252	10QFileInfo_autogen/mocs_compilation.cpp	ed427289f0e68ed3
+0	150	1701006566424382252	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-10QFileInfo-Qt_6_5_2_for_macOS-Debug/10QFileInfo_autogen/timestamp	ed427289f0e68ed3
+0	150	1701006566424382252	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-10QFileInfo-Qt_6_5_2_for_macOS-Debug/10QFileInfo_autogen/mocs_compilation.cpp	ed427289f0e68ed3
+150	189	1701006566467157837	CMakeFiles/10QFileInfo.dir/10QFileInfo_autogen/mocs_compilation.cpp.o	71121a7b20c89167
+1	18	1701007672459275383	10QFileInfo_autogen/timestamp	ed427289f0e68ed3
+1	18	1701007672459275383	10QFileInfo_autogen/mocs_compilation.cpp	ed427289f0e68ed3
+1	18	1701007672459275383	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-10QFileInfo-Qt_6_5_2_for_macOS-Debug/10QFileInfo_autogen/timestamp	ed427289f0e68ed3
+1	18	1701007672459275383	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-10QFileInfo-Qt_6_5_2_for_macOS-Debug/10QFileInfo_autogen/mocs_compilation.cpp	ed427289f0e68ed3
+0	17	1701007712104728504	10QFileInfo_autogen/timestamp	ed427289f0e68ed3
+0	17	1701007712104728504	10QFileInfo_autogen/mocs_compilation.cpp	ed427289f0e68ed3
+0	17	1701007712104728504	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-10QFileInfo-Qt_6_5_2_for_macOS-Debug/10QFileInfo_autogen/timestamp	ed427289f0e68ed3
+0	17	1701007712104728504	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/06Section8-FileSystem/build-10QFileInfo-Qt_6_5_2_for_macOS-Debug/10QFileInfo_autogen/mocs_compilation.cpp	ed427289f0e68ed3
+17	664	1701007712747394699	CMakeFiles/10QFileInfo.dir/main.cpp.o	101abfe9dc64bea4
+666	833	1701007712916539355	10QFileInfo	952307788a7e465a

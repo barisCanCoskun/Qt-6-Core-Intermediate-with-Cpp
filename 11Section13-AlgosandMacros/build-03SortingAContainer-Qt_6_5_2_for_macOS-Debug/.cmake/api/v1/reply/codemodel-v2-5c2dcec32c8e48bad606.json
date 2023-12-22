@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c59cbc27b3cc3d14a514.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "03SortingAContainer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "03SortingAContainer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03SortingAContainer-Debug-ead7efdc1b80932e0871.json",
+					"name" : "03SortingAContainer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03SortingAContainer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03SortingAContainer_autogen-Debug-93db6dd676f47257fcc2.json",
+					"name" : "03SortingAContainer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03SortingAContainer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03SortingAContainer_autogen_timestamp_deps-Debug-509834dd62ca7abd545d.json",
+					"name" : "03SortingAContainer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/11Section13-AlgosandMacros/build-03SortingAContainer-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/11Section13-AlgosandMacros/03SortingAContainer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
