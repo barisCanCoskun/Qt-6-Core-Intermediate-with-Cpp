@@ -1,0 +1,8 @@
+# ninja log v5
+0	159	1703263982446453194	04QtConcurrent_autogen/timestamp	1a1fa73287ac3b15
+0	159	1703263982446453194	04QtConcurrent_autogen/mocs_compilation.cpp	1a1fa73287ac3b15
+0	159	1703263982446453194	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/14Section16-BasicThreading/build-Assignment14-Qt_6_5_2_for_macOS-Debug/04QtConcurrent_autogen/timestamp	1a1fa73287ac3b15
+0	159	1703263982446453194	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Courses/02Qt6CoreIntermediate/14Section16-BasicThreading/build-Assignment14-Qt_6_5_2_for_macOS-Debug/04QtConcurrent_autogen/mocs_compilation.cpp	1a1fa73287ac3b15
+159	206	1703263982501216131	CMakeFiles/04QtConcurrent.dir/04QtConcurrent_autogen/mocs_compilation.cpp.o	8b5331a24db6fcc3
+159	1067	1703263983358506568	CMakeFiles/04QtConcurrent.dir/main.cpp.o	da39402a749ed413
+1069	1103	1703263983397037344	04QtConcurrent	844aeea36a8f23d9

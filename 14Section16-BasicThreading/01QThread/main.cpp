@@ -6,6 +6,15 @@
  * view our current thread
  */
 
+// Q1-Why use threads ?
+// Execute multiple instructions at the same time.
+
+// Q2-Threads are non-blocking: True
+
+// Q3-Async code can be single or multiple-threaded: True
+
+
+
 #include <QCoreApplication>
 #include <QThread>
 
@@ -25,3 +34,9 @@ int main(int argc, char *argv[])
 
     return a.exec();
 }
+
+
+
+
+
+
