@@ -1,5 +1,5 @@
 # Qt-6-Core-Intermediate-with-Cpp
 
-This repo was created using [https://www.udemy.com/course/qt-6-core-intermediate/]
+Cross-platform programming with Qt and C++, write once, build anywhere – Qt runs on virtually anything.  
+You probably have applications built with Qt running on your computer, smart phone, television, and other electronics.   
 
- Written and worked on all programs in this course.
